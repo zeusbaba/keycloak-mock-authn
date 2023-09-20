@@ -1,6 +1,7 @@
 # Mock User Provider for Keycloak
 
-This project contains `mock-user-provider` implementation to enable `authentication` via any norwegian personnummer  
+This project contains `mock-user-provider` implementation to enable `authentication` via any norwegian personnummer (fødselsnummer)    
+Common password is configurable and thus allows mock user login with `norsk ssn & common_pwd`  
 
 ## Usage
 
